@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049910476719",
+    "project_id": "thmapp-251fc",
+    "storage_bucket": "thmapp-251fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049910476719:android:f219bfda6dda978dedf95a",
+        "android_client_info": {
+          "package_name": "com.example.thm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPVwqXHUWrDE7cpSklNsqolUZu2zT7Qpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
